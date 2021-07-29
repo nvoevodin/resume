@@ -1,0 +1,197 @@
+{
+  "main": {
+    "name":"I'm Nikita Voevodin",
+    "description":"A professional data engineer and full-stack developer with current concentration in native app developement. Hacking away at the NYC Taxi & Limousine Commission. P.S: If you are interested in learning R, check out my book R, Not the Best Practices (link below).",
+    "image":"profilepic.jpg",
+    "bio":"I am a professional data engineer and full-stack developer with current concentration in native app developement. Currently, I am a senior data analyst at the NYC Taxi & Limousine Commission. My work involves developing and automating big data processes, building and interacting with databases, creating apps and dashboards for TLC and public, as well as conducting high level research to support impactful legislation in the area of city transportation. I am also a creator of VolleyPal - a social network app for volleyball players (More info at www.volleypal.site).",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "voevodin.nv@gmail.com",
+    "phone": "718-288-1459",
+    "github":"https://github.com/nvoevodin",
+    "project":"https://bookdown.org/voevodin_nv/R_Not_the_Best_Practices/",
+    "address":{
+      "street":"",
+      "city":"Brooklyn",
+      "state":"New York",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1re9ZYGrH8JiKrrrvOPDOU-BbGldACcUI/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=100008286490379",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nvoevodin/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nvoevodin",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"This is my modest evaluation of my own core programming skills. ",
+    "education":[
+      {
+        "school":"Colin Powell School for Civic and Global Leadership (CUNY)",
+        "degree":"MPA (Data Analysis)",
+        "graduated":"September 2017",
+        "description":"GPA: 3.85."
+      },
+      {
+        "school":"Colin Powell School for Civic and Global Leadership (CUNY)",
+        "degree":"BA (Political Science)",
+        "graduated":"June 2015",
+        "description":"GPA: 3.5."
+      },
+      {
+        "school":"Kaliningrad State Technical University",
+        "degree":"BS (Economics)",
+        "graduated":"June 2011",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"NYC Taxi & Limousine Commission",
+        "title":"Senior Data Analyst",
+        "years":"Oct 2019 - Present",
+        "description":"Script Python, R and SQL queries for data exploration, data validation and ETL procedures. Design, build, and interact with SQL Server, MySQL, PostgreSQL, ClickHouse databases, as well as aggregated warehousing solutions to produce independently requested metrics for senior leadership. Provide complete support and maintain TLC Data Hub and other apps. Research, prototype, and present new ideas to advance the agency’s mission and streamline internal operations. Serve as a liaison for transferring data from TLC to the Mayors Office, other city agencies, as well as media outlets like NYT, WSJ, and New York Post."
+      },
+      {
+        "company":"NYC Taxi & Limousine Commission",
+        "title":"Data Analyst",
+        "years":"May 2018 - Oct 2019",
+        "description":"Created a variety of apps and dashboards with designed and implemented backend database setups for both TLC and public consumption (eg., DataHub, VinDecoder, MeetUp App). Conducted advanced data analyses to assist agency initiatives, such as the Congestion Study and TLC Vehicle Cap. Instituted a bi-weekly data meetup that connected analysts across multiple departments to engage and develop new products."
+      },
+      {
+        "company":"New York State Assembly",
+        "title":"Data Analyst",
+        "years":"Apr 2016 - Feb 2017",
+        "description":"Introduced SQL and Excel into the daily operation of the 72nd district office, which helped automate and streamline most of the data tasks. Successfully distributed $4 million of NYS capital funding and $500,000 of discretional funding to the municipal and non-profit organizations of the 72 Assembly district. Increased submission of legislation proposals by recruiting and supervising a team of interns."
+      }
+    ],
+    "skills":[
+      {
+        "name":"R",
+        "level":"90%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"React-Native",
+        "level":"80%"
+      },
+      {
+        "name":"JS",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"40%"
+      },
+      {
+        "name":"DevOps",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"VolleyPal (React-Native)",
+        "category":"Social Network for Volleyball Players",
+        "image":"01.jpg",
+        "url":"https://www.volleypal.site"
+      },
+      {
+        "title":"TLC Data Hub (R-Shiny)",
+        "category":"TLC data aggregator",
+        "image":"02.jpg",
+        "url":"https://tlcanalytics.shinyapps.io/tlc_dash/"
+      },
+      {
+        "title":"Data Meetup (R-Shiny)",
+        "category":"TLC Data Meetup scheduler",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"TLC Vin Decoder (R-Shiny)",
+        "category":"TLC Vin Decoder",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"NaZabore (ReactJS)",
+        "category":"Russian urban dictionary.",
+        "image":"05.jpg",
+        "url":"https://www.nazabore.site"
+      },
+      {
+        "title":"GeoHut (React-Native)",
+        "category":"Employee check-in system.",
+        "image":"06.jpg",
+        "url":"https://play.google.com/store/apps/details?id=com.vcoolstudio.geohut&hl=en_CA&gl=US"
+      },
+      {
+        "title":"DoublePark (React-Native)",
+        "category":"Transportation app",
+        "image":"07.jpg",
+        "url":"https://play.google.com/store/apps/details?id=com.vcoolstudio.doublePark&hl=en_CA&gl=US"
+      },
+      {
+        "title":"Decoder Backend (Python)",
+        "category":"Decoder backend",
+        "image":"08.jpg",
+        "url":"https://github.com/nvoevodin/pyDecoder"
+      },
+      {
+        "title":"MK Sounds (HTML/CSS/JS)",
+        "category":"Practice app",
+        "image":"09.jpg",
+        "url":"https://nvoevodin.github.io/mk_sounds/"
+      },
+      {
+        "title":"Flex Gallery (HTML/CSS)",
+        "category":"Practice app",
+        "image":"10.jpg",
+        "url":"https://nvoevodin.github.io/flex_gal/"
+      },
+      {
+        "title":"Dice Game (HTML/CSS/JS)",
+        "category":"Practice game app.",
+        "image":"11.jpg",
+        "url":"https://nvoevodin.github.io/Pig-Game/"
+      },
+      {
+        "title":"Budgety (HTML/CSS/JS)",
+        "category":"Practice App",
+        "image":"12.jpg",
+        "url":"https://nvoevodin.github.io/budget_app/"
+      }
+    ]
+  }
+}
