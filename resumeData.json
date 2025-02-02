@@ -69,9 +69,27 @@
     ],
     "work":[
       {
+        "company":"Subaru of America",
+        "title":"Senior Data Scientist/Engineer",
+        "years":"Dec 2022 - Present",
+        "description":Led a cloud infrastructure migration project to move the team’s Big Data and compute from Cloudera to AWS Cloud. Set up QA, DEV, and PROD environments, built compute, storage, archiving, networking, and auxiliary infrastructure, as well as refactored majority of the ETL processes from the traditional DB and Apache design to the object storage and serverless medallion patterns using formats like parquet, iceberg, and delta. The project resulted in savings of ~$500k/year. In charge of the AWS Cloud infrastructure, maintain crucial telematics ETL processes, build utility monitoring tables, create users, policies and permission sets. Built and deployed SageMaker docker backed RStudio infrastructure to enable data scientists to spin as much compute as they need. Prototyped built and deployed to production two AI backed full stack applications to parse, classify, and visualize repair claims comments and customer/business correspondences. Six thousand daily comments are now processed, classified, and analyzed in minutes. Used advanced prompt engineering, map-reduce, refine, and model chaining techniques to achieve 90%+ classification accuracy utilizing GPT 4o and GPT 4o-mini in tandem. The apps resulted in an extreme increase in productivity, freeing up two QA teams from doing manual comments parsing. In charge of MS Azure AI Foundry, selecting, deploying, testing, fine-tuning and policing AI models for the advanced analytics team.  In the process of cloud migration to MS Azure for applications, middleware, and API solutions, and Azure hosted DataBricks for advanced analytics and BI."
+      },
+      {
+        "company":"NYC Taxi & Limousine Commission",
+        "title":"Director of Data Engineering & Analytics",
+        "years":"Apr 2022 - Jan 2023",
+        "description":Built from zero and led a team of analysts and engineers to provide Big Data analyses and technical infrastructure to the Policy division of the Taxi & Limousine Commission of NYC. Built a semi-automated management system by using Azure DevOps with active utilization of Agile principles that led to increased efficiency in work distribution, documentation, tracking, and completion. Solved massive delays in SQL query execution times by shifting analytics from an in-house SQL Server to the combination of the OLAP database with locally stored Big Data .parquet files. An average execution time decreased by hundreds of times from hours to seconds. Led the project to expand the frequency and amount of data that TLC releases to the public as part of its Open Data commitment, which resulted in a significant reduction in the Freedom of Information Act (FOIL) requests from the public. Present data analytics and engineering work, research and operational improvements to agency executives, internal and external stakeholders; represent the division and provide expertise and technical consulting services at city agencies’ data sharing and data acquisition discussions and other cross-agency initiatives that involve data. Prepare executive memorandums, presentations, data analysis summary reports, procedure manuals, technical guides, standard operating procedures, and workflow manuals."
+      },
+      {
+        "company":"NYC Taxi & Limousine Commission",
+        "title":"Senior Data Engineer (Unit Head)",
+        "years":"Sep 2021 - Apr 2022",
+        "description":Served as a bridge between the Policy division and IT by providing technical infrastructure for the day-to-day operations of the division by utilizing available resources. Designed and built the State of the Industry set of dashboards to improve internal and external data reporting requirements. Identified inefficiencies and gaps in existing procedures and solved them. Switched TLC’s Open Data AWS files sharing format from .csv to .parquet, implemented CloudFront caching layer with WAF firewall to protect the account from malicious bots and overuse that will lead to $150k of data hosting/sharing savings in the next three years. Designed and built tables, schema, stored procedures, and jobs for a SQL Server-based analytics datawarehouse."
+      },
+      {
         "company":"NYC Taxi & Limousine Commission",
         "title":"Senior Data Analyst",
-        "years":"Oct 2019 - Present",
+        "years":"Oct 2019 - Sep 2021",
         "description":"Script Python, R and SQL queries for data exploration, data validation and ETL procedures. Design, build, and interact with SQL Server, MySQL, PostgreSQL, ClickHouse databases, as well as aggregated warehousing solutions to produce independently requested metrics for senior leadership. Provide complete support and maintain TLC Data Hub and other apps. Research, prototype, and present new ideas to advance the agency’s mission and streamline internal operations. Serve as a liaison for transferring data from TLC to the Mayors Office, other city agencies, as well as media outlets like NYT, WSJ, and New York Post."
       },
       {
